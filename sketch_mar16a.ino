@@ -25,7 +25,7 @@
 
 // Данные подключения к вайфай
 char ssid[] = "1F13";
-char pass[] = "1310dbntr";
+char pass[] = "1310dbnr";
 bool inPossition = true;
 int switch_304 = 1;  //  304 защелка
 int counter = 0; // ограничитель набора
